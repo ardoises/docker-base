@@ -1,6 +1,5 @@
 FROM alpine:edge
 MAINTAINER Alban Linard <alban@linard.fr>
-# MAINTAINER Evan Wies <evan@neomantra.net>
 
 # Docker Build Arguments
 ARG RESTY_VERSION="1.11.2.1"

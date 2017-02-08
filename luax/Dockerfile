@@ -1,6 +1,5 @@
 FROM alpine:edge
 MAINTAINER Alban Linard <alban@linard.fr>
-# MAINTAINER Evan Wies <evan@neomantra.net>
 
 ADD luax/install    /lua/
 ADD luax/versions   /lua/
